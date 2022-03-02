@@ -10,7 +10,7 @@ from setuptools import setup
 requirements = {
     'src' : [
         'astunparse==1.6.3',
-        'numpy==1.18.5',
+        'numpy==1.19',
         'scipy==1.7.3',
         'sympy==1.6',
     ],
